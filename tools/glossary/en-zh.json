@@ -55,5 +55,29 @@
 	{ "source": "others", "target": "其他" },
 	{ "source": "Manage Collections", "target": "管理 Collections" },
 	{ "source": "Limit Collection Counts", "target": "Collection 数量限制" },
-	{ "source": "Operational FAQs", "target": "操作常见问题" }
+	{ "source": "Operational FAQs", "target": "操作常见问题" }，
+	{ "source": "Scalar Index", "target": "标量索引" }，
+	{ "source": "GPU Index", "target": "GPU 索引" }，
+	{ "source": "Index", "target": "索引" }，
+	{ "source": "index", "target": "索引" }，
+	{ "source": "Replica", "target": "副本" }，
+	{ "source": "load", "target": "load" }，
+	{ "source": "Load", "target": "Load" }，
+	{ "source": "release", "target": "release" }，
+	{ "source": "Release", "target": "Release" }，
+	{ "source": "AutoID", "target": "AutoID" }，
+	{ "source": "Analyzer", "target": "Analyzer" }，
+	{ "source": "Analyzers", "target": "Analyzers" }，
+	{ "source": "Tokenizers", "target": "Tokenizers" }，
+	{ "source": "Whitespace", "target": "Whitespace" }，
+	{ "source": "Filters", "target": "Filters" }，
+	{ "source": "Jieba", "target": "Jieba" }，
+	{ "source": "Scaling", "target": "Scaling" }，
+	{ "source": "Nullable", "target": "Nullable" }，
+	{ "source": "Pulsar", "target": "Pulsar" }，
+	{ "source": "Operator", "target": "Operator" }，
+	{ "source": "Drop Collection", "target": "删除 Collection" }，
+	{ "source": "Metric Type", "target": "相似性度量" }，
+	{ "source": "Instructor", "target": "Instructor" }，
+	{ "source": "Nomic", "target": "Nomic" }
 ]
